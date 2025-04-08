@@ -18,3 +18,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jazzzlmeida/jazzalmeida/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+
+![Image](https://github.com/user-attachments/assets/d80543c1-d35e-45cd-9b93-a3699429d47f)
