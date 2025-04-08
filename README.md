@@ -6,7 +6,7 @@
 
 - 💻 Formada em **Análise e Desenvolvimento de Sistemas** e cursando pós em **Análise de Dados**
 - 🔧 Experiência com suporte técnico (N1 e N2) e backoffice usando MKSolutions
-- 🚀 Em constante aprendizado e transição para a área de tecnologia
+- 🚀 Em constante aprendizado para a área de tecnologia
 - 📍 Mineira, mas vivendo no interior de SP | Apaixonada por gatos, games e anime
 
 </td>
