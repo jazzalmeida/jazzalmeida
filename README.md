@@ -18,3 +18,5 @@
 </picture>
 
 </div>
+
+<div class="tenor-gif-embed" data-postid="26953149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/killua-hunter-x-hunter-transparent-gif-26953149">Killua Hunter X Hunter Sticker</a>from <a href="https://tenor.com/search/killua-stickers">Killua Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
