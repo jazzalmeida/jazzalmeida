@@ -11,7 +11,7 @@
 
 </td>
     <td align="center" width="250">
-      <img src="https://media.giphy.com/media/f9nQWZ4Tv5r3qp2sto/giphy.gif" width="200" alt="Killua GIF" />
+      <img src="src/killua.gif" />
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1ZWZjcTdwOW90NzRwdjQxOW5rbGZkaWhla2l1Ymc1ZTNjcTZsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOVH8G6m5FiHK/giphy.gif" width="200" alt="Hamtaro GIF" />
+  <img src="src/hamtaro.gif" />
 </div>
 
 ### 💬 Soft Skills
