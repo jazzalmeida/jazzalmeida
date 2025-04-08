@@ -2,7 +2,6 @@
 
 - 💻 Formada em **Análise e Desenvolvimento de Sistemas** e cursando pós em **Análise de Dados**
 - 🔧 Experiência com suporte técnico (N1 e N2) e backoffice usando MKSolutions
-- 🛠️ Conhecimentos em **SQL**, **Python**, **redes** e **análise de dados**
 - 🚀 Em constante aprendizado e transição para a área de tecnologia
 - 📍 Mineira, mas vivendo no interior de SP | Aberta a novos desafios e colaborações
 
