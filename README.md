@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <img src="src/hamtaro.gif" />
+  <img src="src/hamtarinho.gif" />
 </div>
 
 ### 💬 Soft Skills
