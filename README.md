@@ -10,7 +10,7 @@
 - ❤️ Defensora da diversidade, equidade e inclusão | 🌈 Apoio às causas LGBTQIA+
 </td>
     <td align="center" width="250">
-      <img src="src/killua2.gif" />
+      <img src="src/gatinho.gif" />
     </td>
   </tr>
 </table>
