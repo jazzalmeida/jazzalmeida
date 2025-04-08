@@ -6,9 +6,8 @@
 
 - 💻 Formada em **Análise e Desenvolvimento de Sistemas** e cursando pós em **Análise de Dados**
 - 🔧 Experiência com suporte técnico (N1 e N2) e backoffice usando MKSolutions
-- 🚀 Em constante aprendizado para a área de tecnologia
 - 📍 Mineira, mas vivendo no interior de SP | Apaixonada por gatos, games e anime
-
+- ❤️ Defensora da diversidade, equidade e inclusão | 🌈 Apoio às causas LGBTQIA+
 </td>
     <td align="center" width="250">
       <img src="src/killua.gif" />
