@@ -7,7 +7,7 @@
 - 💻 Formada em **Análise e Desenvolvimento de Sistemas** e cursando pós em **Análise de Dados**
 - 🔧 Experiência com suporte técnico (N1 e N2) e backoffice usando MKSolutions
 - 🚀 Em constante aprendizado e transição para a área de tecnologia
-- 📍 Mineira, mas vivendo no interior de SP | Aberta a novos desafios e colaborações
+- 📍 Mineira, mas vivendo no interior de SP | Apaixonada por gatos, games e anime
 
 </td>
     <td align="center" width="250">
@@ -48,7 +48,7 @@
 ### 💬 Soft Skills
 
 - Comunicação clara e empática
-- Resolução de problemas em ambientes de pressão
+- Análise e resolucação de problemas
 - Trabalho em equipe com setores técnicos e administrativos
 - Autonomia, organização e foco no aprendizado contínuo
 
@@ -70,7 +70,7 @@
 
 ---
 
-### 🐍 Snake Contribution
+### 🐍
 
 <div align="center">
   <picture>
