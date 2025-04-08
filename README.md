@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td>
+
 ## 👋 Olá, eu sou a Jéssica "Hamtaro" Almeida
 
 - 💻 Formada em **Análise e Desenvolvimento de Sistemas** e cursando pós em **Análise de Dados**
@@ -5,9 +9,12 @@
 - 🚀 Em constante aprendizado e transição para a área de tecnologia
 - 📍 Mineira, mas vivendo no interior de SP | Aberta a novos desafios e colaborações
 
-<div align="center">
-  <img src="https://media.tenor.com/9x68YExNacMAAAAC/killua-hunter-x-hunter.gif" width="250" alt="Killua GIF" />
-</div>
+</td>
+    <td align="center" width="250">
+      <img src="https://media.giphy.com/media/f9nQWZ4Tv5r3qp2sto/giphy.gif" width="200" alt="Killua GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -33,6 +40,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1ZWZjcTdwOW90NzRwdjQxOW5rbGZkaWhla2l1Ymc1ZTNjcTZsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOVH8G6m5FiHK/giphy.gif" width="200" alt="Hamtaro GIF" />
+</div>
 
 ### 💬 Soft Skills
 
