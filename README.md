@@ -19,5 +19,3 @@
 </picture>
 
 </div>
-
-![Image](https://github.com/user-attachments/assets/d80543c1-d35e-45cd-9b93-a3699429d47f)
