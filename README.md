@@ -7,7 +7,7 @@
 
 <!--Redes Sociais-->
 <div>
- <img align="right" alt="" !height="190px" https://tenor.com/pt-BR/view/killua-hunter-x-hunter-transparent-gif-26953149
+ <img align="right" alt="" !height="190px" !(https://tenor.com/pt-BR/view/killua-hunter-x-hunter-transparent-gif-26953149)
 
  <h3 align="left">Connect with me!</h3>
   <a href="https://www.linkedin.com/in/jessialmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
